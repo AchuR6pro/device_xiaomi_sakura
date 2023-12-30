@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2017-2021 The blazeOS Project
+# Copyright (C) 2017-2021 The BlazeOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
