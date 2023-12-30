@@ -1,11 +1,11 @@
 #
-# Copyright (C) 2023 The LineageOS Project
+# Copyright (C) 2023 The Blaze OS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/xiaomi/daisy
-USES_DEVICE_XIAOMI_DAISY := true
+DEVICE_PATH := device/xiaomi/sakura
+USES_DEVICE_XIAOMI_SAKURA := true
 
 # Inherit from common msm8953-common
 include device/xiaomi/msm8953-common/BoardConfigCommon.mk
