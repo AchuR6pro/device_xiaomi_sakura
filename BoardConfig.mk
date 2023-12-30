@@ -11,7 +11,7 @@ USES_DEVICE_XIAOMI_SAKURA := true
 include device/xiaomi/msm8953-common/BoardConfigCommon.mk
 
 # Kernel
-TARGET_KERNEL_CONFIG += xiaomi/daisy.config xiaomi/sakura.config
+TARGET_KERNEL_CONFIG += xiaomi/sakura.config
 
 ifeq ($(AB_OTA_UPDATER), true)
 # Filesystem
