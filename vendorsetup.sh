@@ -7,3 +7,6 @@ git clone https://github.com/xiaomi-msm8953-devs/proprietary_vendor_xiaomi_msm89
 
 # Kernel Tree
 git clone https://github.com/xiaomi-msm8953-devs/android_kernel_xiaomi_msm8953.git -b lineage-21 kernel/xiaomi/msm8953
+
+# Hardware Tree
+git clone https://github.com/LineageOS/android_hardware_xiaomi.git -b lineage-21 hardware/xiaomi
