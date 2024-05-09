@@ -1,5 +1,5 @@
 # Common Tree
-git clone https://github.com/AchuR6pro/device_xiaomi_msm8953.git -b lineage-21 device/xiaomi/msm8953-common
+git clone https://github.com/AchuR6pro/device_xiaomi_msm8953.git -b A14 device/xiaomi/msm8953-common
 
 # Vendor Tree
 git clone https://github.com/xiaomi-msm8953-devs/proprietary_vendor_xiaomi_daisy.git -b lineage-21 vendor/xiaomi/daisy
