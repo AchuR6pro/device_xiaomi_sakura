@@ -18,7 +18,8 @@ PRODUCT_PACKAGES += \
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
-    vendor/fingerprint/opensource/interfaces
+    device/xiaomi/daisy/biometrics/vendor/fingerprint/opensource/interfaces \
+    hardware/xiaomi
 
 # Audio configuration
 PRODUCT_COPY_FILES += \
